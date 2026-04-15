@@ -1,4 +1,4 @@
 # calculator_tkinter
 Just a simple calculator.
 
-<img src="example.gif"/>
+<img src="example.gif" width="300"/>
